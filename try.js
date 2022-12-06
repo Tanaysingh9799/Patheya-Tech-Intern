@@ -14,15 +14,15 @@ console.log("______________________________")
 function hello(string) {
     changed  = upperCaseP.upperCase(string);
     //console.log(string);
-    console.log(changed);
+    console.log(changed);//changes string to upper-case
 }
 hello("tanay");
 
 console.log("______________________________")
-moment().format();
-moment().format("dddd, MMMM Do YYYY, h:mm:ss a");
-moment().year(2022).month('November').date(5);
-moment().subtract(1, 'day').subtract(1, 'months').year(2022).hours('h').minutes('mm').seconds('ss');
+moment().format();//Returns Current Date Day and Time 
+moment().format("dddd, MMMM Do YYYY, h:mm:ss a"); // Returns Current date and time in (dddd, MMMM Do YYYY, h:mm:ss) Format 
+moment().year(2022).month('November').date(5); // Returns 5th of November 
+moment().subtract(1, 'day').subtract(1, 'months').year(2022).hours('h').minutes('mm').seconds('ss'); // Returns 5th of November 2022 , But same time as of today
 
 
 

@@ -1,7 +1,7 @@
 {
   "name": "try",
   "version": "1.0.0",
-  "description": "Sum of 3 integers",
+  "description": "Sum of 3 integers,Application of moments.js and Upper-case.js",
   "main": "try.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

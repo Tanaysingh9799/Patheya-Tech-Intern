@@ -1,0 +1,18 @@
+{
+  "name": "try",
+  "version": "1.0.0",
+  "description": "Sum of 3 integers",
+  "main": "try.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Sum"
+  ],
+  "author": "Tanay Singh",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "upper-case": "^2.0.2"
+  }
+}
